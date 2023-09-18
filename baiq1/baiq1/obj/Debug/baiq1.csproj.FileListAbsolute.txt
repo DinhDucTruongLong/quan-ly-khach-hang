@@ -1,0 +1,10 @@
+C:\Users\TTC\source\repos\baiq1\baiq1\bin\Debug\baiq1.exe.config
+C:\Users\TTC\source\repos\baiq1\baiq1\bin\Debug\baiq1.exe
+C:\Users\TTC\source\repos\baiq1\baiq1\bin\Debug\baiq1.pdb
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.csproj.AssemblyReference.cache
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.Form1.resources
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.Properties.Resources.resources
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.csproj.GenerateResource.cache
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.csproj.CoreCompileInputs.cache
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.exe
+C:\Users\TTC\source\repos\baiq1\baiq1\obj\Debug\baiq1.pdb
